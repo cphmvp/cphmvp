@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cphmvp
-- 👀 I’m interested in bigdatd
-- 🌱 I’m currently learning user growth
+- 👀 I’m interested in bigdata
+- 🌱 I’m currently doing user growth
 - 📫 How to reach me  cphmvp@163.com .  
-- wechart is cphmvp
+- wechat is cphmvp
 
 
 
