@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cphmvp
 - 👀 I’m interested in bigdata
-- 🌱 I’m currently doing user growth
+- 🌱 I’m currently doing user growth  &  Commercial revenue
 - 📫 How to reach me  cphmvp@163.com .  
 - wechat is cphmvp
 
